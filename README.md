@@ -1,8 +1,8 @@
 **RNA-seq Gene Expression Analysis — Cancer Dataset**
 
-**Author:**  Sahil Bilal  
-**Affiliation:**  BSc. Medical, Cluster University Srinagar  
-**Project:**  RNA-seq data exploration and visualization for cancer transcriptomics  
+**Author:** Sahil Bilal 
+**Affiliation:** BSc. Medical, Cluster University Srinagar
+**Project:** RNA-seq data exploration and visualization for cancer transcriptomics
 sahiilbilal19@gmail.com
 ---
 
